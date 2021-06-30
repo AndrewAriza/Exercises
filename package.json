@@ -1,0 +1,12 @@
+{
+  "name": "walmart",
+  "version": "1.0.0",
+  "description": "Walmart Full-Stack Engineer Hiring Test",
+  "scripts": {
+    "start:record": "node src/record/index.js",
+    "start:username": "node src/username/index.js"
+  },
+  "author": "Andrés Ariza",
+  "license": "MIT",
+  "dependencies": {}
+}
